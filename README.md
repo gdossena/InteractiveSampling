@@ -2,7 +2,7 @@
 
 A Jupyter Notebook live sampling of a gaussian distribution.
 
-![gaussian](docs/images/gaussian.png)
+![screenshot](docs/images/screenshot.png)
 
 ## Usage
 
